@@ -1,0 +1,12 @@
+create repository and copy link
+git clone + link
+cd (repository folder)
+nano file.txt
+ls -la
+git status
+git add .
+git status
+git commit -m"com"
+git push
+-username
+-password(token)
