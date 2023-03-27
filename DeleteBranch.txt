@@ -1,0 +1,5 @@
+git checkout main
+git branch -d namebranch
+git branch
+
+git push origin -d namebranch
