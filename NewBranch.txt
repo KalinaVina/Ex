@@ -9,4 +9,6 @@ git merge newbranch
 
 git checkout newbranch
 git push -u origrn newbranch
+git status
+
 
